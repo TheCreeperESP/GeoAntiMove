@@ -1,0 +1,13 @@
+# Plugin by TheCreeperESP
+# Archivo de configuracion de GeoAntiMove
+
+prefix: '&3[&bGeoAntiMove&3] ' # You can edit all the things inside the ''
+frozenMsg: '&9Has sido &6&lcongelado!'
+notifyFrozenMsg: '&aa sido congelado!'
+unfrozenMsg: '&9Has sido &6&ldescongelado'
+notifyUnfrozenMsg: '&aa sido descongelado'
+commandsMsg: '&cNo puedes ejecutar comandos estando congelado!'
+placeMsg: '&cNo puedes colocar bloques estando congelado'
+breakMsg: '&cNo puedes romper bloques estando congelado'
+dropItemMsg: '&cNo puedes dropear objetos estando congelado!'
+interactMsg: '&cNo puedes interactuar con eso estando congelado'
