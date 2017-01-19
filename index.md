@@ -1,14 +1,3 @@
 ## GeoAntiMove
 
-Otros de mis proyectos los encontrarás [aquí](https://github.com/TheCreeperESP) y agradecería tu opinión.
-
-
-```markdown
-Test
-
-
-
-
-**asd**   _ads_    `asd` 
-
-```
+This is only once of my plugins, the others you can found [here](https://github.com/TheCreeperESP)!
