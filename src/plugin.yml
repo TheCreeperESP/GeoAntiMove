@@ -5,7 +5,7 @@ first-version: 1.0-SNAPSHOT
 bugs-solved: 34
 version: 3.0-SNAPSHOT
 web: https://github.com/TheCreeperESP
-language: Español
+language: Español / Spanish
 description: Plugin de AntiMovimiento
 commands-total: 7
 commands:
@@ -42,6 +42,7 @@ permissions:
    geoantimove.use:
      description: Este permiso lo tienen que tener todos los jugadores
 next-update: 4.0-SNAPSHOT --> 2018
+next-language-update: 1.0-SNAPSHOT (English Version) --> 2017.7.15
 
 # The <name> is same than <player>
 # Enjoy the plugin :)
