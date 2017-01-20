@@ -1,0 +1,47 @@
+name: AntiMove
+authors: TheCreeperESP / # I can't say his name
+oficial-author: TheCreeperESP
+first-version: 1.0-SNAPSHOT
+bugs-solved: 34
+version: 3.0-SNAPSHOT
+web: https://github.com/TheCreeperESP
+language: Español
+description: Plugin de AntiMovimiento
+commands-total: 7
+commands:
+   freeze:
+     description: Congela al jugador selecionado permanentemente evitando el movimiento de este.
+     usage: /freeze <name>
+     second-usage: /freeze <name> (UnFreeze)
+   freeze reload:
+     description: Recarga el plugin.
+     usage: /freeze reload
+   freeze all:
+     description: Congela a todos los jugadores del servidor.
+     usage: /freeze all
+   freeze temp:
+     description: Congela al jugador selecionado temporalmente evitando el movimiento de este.
+     usage: /freeze temp <name> <seconds>
+   frozen:
+     description: Mira si el jugador está congelado o no.
+     usage: /frozen <name>
+   frozen list:
+     description: Mira la lista de todos los jugadores congelados.
+     usage: /frozen list
+   frozen version:
+     description: Te permite ver la version del plugin y su dueño.
+     usage: /freeze version
+permissions:
+   geoantimove.freeze:
+     description: Te permite congelar a jugadores y a ver la lista de congelados. (Staff)
+   geoantimove.notify:
+     description: Te permite ver cuando un jugador a sido congelado / descongelado. (Staff)
+   geoantimove.reload:
+     description: Te permite recargar el plugin. (Admins)
+     usage: /freeze reload
+   geoantimove.use:
+     description: Este permiso lo tienen que tener todos los jugadores
+next-update: 4.0-SNAPSHOT --> 2018
+
+# The <name> is same than <player>
+# Enjoy the plugin :)
